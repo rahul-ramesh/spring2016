@@ -1,0 +1,17 @@
+project report
+
+1 page proposal about 1 of 7 topics
+preliminary mid term report 5-7 page
+april - full report
+
+no midterm
+
+---------
+biologically inspired networks
+cognitive networks - recognize enviremnent context awareness
+dedicates short range radio dsrc 5.9 Hz 100ms 
+collision prevention
+ism band 2.4 for cars like wifi but unliscensed for car manufacturers
+
+cellular concepts: frequency reuse/ cell splitting
+
